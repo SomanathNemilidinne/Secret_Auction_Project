@@ -85,3 +85,5 @@ We welcome contributions! If you have ideas for new features, improvements, or b
 ---
 
 Thank you for checking out the Secret Auction project! Happy bidding! 🏆💰
+
+*Created with ❤️ by Somanath Nemilidinne*
